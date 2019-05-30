@@ -15,7 +15,7 @@ These instructions will allow you to copy the project and run it on your local m
 
 1. Clone the repository
 2. Open in Netbeans
-3. Run project
+3. Run project with main class file GUI.java
 
 #### Instructions to play
 
